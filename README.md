@@ -36,7 +36,7 @@ streamlit run App.py
 
 - *.pkl : Les fichiers sérialisés des modèles et du scaler pour une utilisation immédiate.
 
-- rapport_valeur_marchande.docx : Documentation détaillée du projet.
+- rapport_valeur_marchande.pdf : Documentation détaillée du projet.
 ## 🧪 Modèles et Performances
 - Régression Linéaire : A montré une excellente capacité à capturer la logique proportionnelle du dataset.
 
